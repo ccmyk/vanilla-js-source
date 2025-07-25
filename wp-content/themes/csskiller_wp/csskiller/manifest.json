@@ -1,0 +1,22 @@
+{
+  "name": "Eva Sánchez",
+  "short_name": "Eva Sánchez",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "./favicon.png",
+      "sizes": "256x256 512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "./faviconp.png",
+      "sizes": "any",
+      "purpose": "any"
+    }
+  ],
+  "background_color": "#000000",
+  "theme_color": "#F8F6F2",
+  "display": "standalone",
+  "scope": "/"
+ }
